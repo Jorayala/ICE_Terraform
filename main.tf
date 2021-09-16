@@ -11,7 +11,7 @@ provider "aci" {
   # cisco-aci user name
   username = "admin"
   # cisco-aci password
-  password = "password"
+  password = "cisco!123"
   # cisco-aci url
   url      = "https://my-cisco-aci.com"
   insecure = true
