@@ -11,9 +11,9 @@ provider "aci" {
   # cisco-aci user name
   username = "admin"
   # cisco-aci password
-  password = "cisco!123"
+  password = "!v3G@!4@Y"
   # cisco-aci url
-  url      = "https://my-cisco-aci.com"
+  url      = "https://sandboxapicdc.cisco.com/"
   insecure = true
 }
 
